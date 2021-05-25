@@ -1,5 +1,5 @@
 # Adonis fullstack application
-
+<img src="/1.png" alt="A look at the app"/>
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
